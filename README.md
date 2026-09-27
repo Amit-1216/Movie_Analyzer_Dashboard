@@ -202,7 +202,7 @@ These bridge tables handle relationships where a movie can belong to multiple ge
 ## 📁 Repository Structure
 
 ```text
-Movie-Analytics/
+Movie Analyzer Dashboard/
 │
 ├── README.md
 ├── .gitignore
