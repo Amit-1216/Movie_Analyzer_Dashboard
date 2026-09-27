@@ -156,7 +156,7 @@ The Power BI dashboard provides an interactive overview of the movie dataset.
 
 ## Current Dashboard
 
-![Movie Analytics Dashboard](screenshorts\Movie Analyzer Dashboard.png)
+![Movie Analytics Dashboard](screenshots/Movie_Analyzer_Dashboard.png)
 
 ### Dashboard Features
 
@@ -202,22 +202,18 @@ These bridge tables handle relationships where a movie can belong to multiple ge
 ## 📁 Repository Structure
 
 ```text
-Movie-Analytics/
+Movie_Analyzer_Dashboard/
 │
 ├── README.md
-├── .gitignore
 │
-├── data/
-│   └── README.md
+├── screenshots/
+│   └── Movie_Analyzer_Dashboard.png
 │
 ├── notebooks/
 │   └── Movie_Analyzer_Dashboard.ipynb
 │
-├── powerbi/
-│   └── Movie_Analyzer_Dashboard.pbix
-│
-└── screenshots/
-    └── Movie_Analyzer_Dashboard.png
+└── powerbi/
+    └── Movie_Analyzer_Dashboard.pbix
 ```
 
 ---
