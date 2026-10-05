@@ -1,4 +1,4 @@
-# 🎬 Movie Analytics Dashboard
+# 🎬 Movie Analyzer Dashboard
 
 An end-to-end movie analytics project using **Python, Pandas, TMDB API, IMDb data, and Power BI** to analyze movie releases, genres, ratings, languages, production companies, financial performance, and other movie characteristics.
 
